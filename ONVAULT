@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # signals bash to stop execution on any fail
 set -e
 
